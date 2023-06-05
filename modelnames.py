@@ -1,0 +1,20 @@
+model_names = [
+    "gpt2",
+    "gpt2-medium",
+    "gpt2-large",
+    "gpt2-xl",
+    "gpt3.5-turbo",
+    "bert-base-uncased",
+    "bert-large-uncased",
+    "roberta-base",
+    "roberta-large",
+    "distilbert-base-uncased",
+    "distilbert-base-uncased-distilled-squad",
+    "gpt-neo-125M",
+    "gpt-neo-1.3B",
+    "gpt-neo-2.7B",
+    "mosaicml/mpt-7b-storywriter",
+    "mosaicml/mpt-7b-chat",
+    "mosaicml/mpt-7b-instruct",
+    "mosaicml/mpt-7b"
+]
